@@ -69,7 +69,7 @@ The script generates an HTML file containing:
 
 ## Project Structure
 ```
-route-optimization-bangalore/
+route-optimization/
 │
 ├── app.py                    # Main application file
 ├── requirements.txt          # Python dependencies
